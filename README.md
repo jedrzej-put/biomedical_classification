@@ -23,8 +23,8 @@
   - the first pipeline performed projections and illumination corrections of 30 images in TIFF format containing a stack of piece of image to single image
   - the second pipeline enhanced the image, measured a number of features and extracted primary and secondary objects like cells and dendrites
 - Data of this project:
-  - 3243 files (summary-image data) contains 102 measures of image e.g. [Link ](example_data/Tab_Image.csv)
-  - 3243 files (secondary-dendrities) contains each containing on average 150 dendrities describing with 116 features [Link ](exapmle_data/Tab_secondary_dendrities.csv)
+  - 3243 files (summary-image data) contains 102 measures of image e.g. [img_2-summary ](example_data/Tab_Image.csv)
+  - 3243 files (secondary-dendrities) contains each containing on average 150 dendrities describing with 116 features [img-2-secondary-dendrities](example_data/Tab_secondary_dendrities.csv)
 
 ## Tasks
 
