@@ -5,7 +5,7 @@
 - CellProfiler
 - Python 3.10.4
 - pandas==1.4.3
-- Seaborn
+- seaborn
 - torch==2.1.1 : Neural Network
 - Scikit-learn: Logistic Regression, Multilayer Perceptron
 
